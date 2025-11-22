@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 B.Tech CSE student at GITAM. Building full-stack apps & solving real-world problems.  <br>🚀 Hands-on with React, Flask, Tailwind, PostgreSQL/MySQL, and cloud (GCP certified).  <br>🔬 Experience in startup (palettedesign.in), and hackathon projects (SIH, Adobe, Google, ...).  <br>🌐 Currently IEEE Web Master & contributor to projects like NetBSD and healthtech.  <br>📈 Always exploring coding, open source, and tech that makes impact before turning 25. 
+👨‍💻 B.Tech CSE student at GITAM. Building full-stack apps & solving real-world problems.  <br>🚀 Hands-on with FastAPI, Tailwind, PostgreSQL/MySQL, MongoDB, MERN stack, and cloud (GCP certified).  <br>🔬 Experience in startup (palettedesign.in), and hackathon projects (SIH, Adobe, Google, ...).  <br>🌐 Currently IEEE Web Master & contributor to projects like NetBSD.  <br>📈 Always exploring coding, open source, and tech that makes impact before turning 25. 
 
 
 ## 🌐 Socials:
